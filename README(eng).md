@@ -32,7 +32,8 @@ A: Yes! Simply create a new class that implements the choose_move() method.
 
 Q: Why does Q-Learning sometimes perform poorly?
 A: This implementation uses simple state representation. More complex state encoding would improve results.
-  📊 Results Interpretation
+  
+📊 Results Interpretation
 The application displays:
 
 Cumulative win counts for each AI
